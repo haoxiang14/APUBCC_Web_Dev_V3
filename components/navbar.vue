@@ -18,7 +18,7 @@
                         <ul class="p-2">
                             <li><NuxtLink to="/vision-mission" class="hover:bg-primary hover:text-white"> VISION & MISSION </NuxtLink></li>
                             <li><NuxtLink to="/partners" class="hover:bg-primary hover:text-white"> PARTNERS </NuxtLink></li>
-                            <li><NuxtLink to="/team" class="hover:bg-primary hover:text-white0"> OUR TEAM </NuxtLink></li>
+                            <li><NuxtLink to="/team" class="hover:bg-primary hover:text-white"> OUR TEAM </NuxtLink></li>
                         </ul>
                     </li>
                     <li><NuxtLink to="/events" class="font-bold text-xl hover:bg-primary hover:text-white">EVENTS</NuxtLink></li>
