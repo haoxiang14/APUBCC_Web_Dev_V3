@@ -10,3 +10,15 @@
     </html>
     
 </template>
+
+<script setup lang="ts">
+    useHead({
+        title: "APUBCC",
+        meta: [
+            {
+                name: "APU Blockchain & Crypto Club",
+                content: "APU Blockchain & Crypto Club Official Website",
+            },
+        ],
+    });
+</script>
