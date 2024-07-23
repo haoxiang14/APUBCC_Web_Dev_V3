@@ -63,8 +63,8 @@
 					Onboard
 				</a>
 				<a href="http://jobs.apubcc.org/" target="_blank" class="link link-hover">
-					Career<span class="badge badge-primary py-3 lg:py-4 font-semibold ml-2"
-						>Hiring Opportunities!</span
+					Get a job<span class="badge badge-primary py-3 lg:py-4 font-semibold ml-2"
+						>Stop Gaming!</span
 					></a
 				>
 			</nav>
